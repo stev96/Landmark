@@ -1,6 +1,6 @@
 # Swift UI app to display sights of the american nature in a visually appealing way
 
-It is based on the Apple Devoloper Tutorial. It will be helps me to understand how Swift UI and the algorithm works.
+It is based on the Apple Devoloper Tutorial. It will helps me to understand how Swift UI and the algorithm works.
 
 * You can find the Tutorial at the [Apple Devoloper](https://developer.apple.com/tutorials/swiftui/) Guide
 * In future maybey it is possible for me to programm a Guide-app for a annual cultural festival in my Hometown
